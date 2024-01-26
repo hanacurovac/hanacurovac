@@ -13,5 +13,7 @@ I'm Hana Ćurovac, a passionate backend developer with a diverse skill set in la
 ### Get In Touch
 
 📧 Email: hana.curovac@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/hana-curovac-69ba862b0/
+
 📷 Instagram: @haanchhy
