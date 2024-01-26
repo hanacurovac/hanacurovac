@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Hello! I'm Hana Ćurovac!
 
-<!--
-**hanacurovac/hanacurovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm Hana Ćurovac, a passionate backend developer with a diverse skill set in languages such as Python, C++, Java, JavaScript, HTML, and CSS. My journey in the world of software development revolves around crafting robust and efficient server-side solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+💻 Armed with proficiency in Python and C++, I enjoy delving into the intricacies of backend architecture, designing scalable systems, and optimizing database performance. My expertise extends to Java, where I leverage its power to build reliable and high-performance server applications.
+
+🌐 Beyond the realm of web development, I enjoy delving into the intricacies of HTML, JavaScript, and CSS, constantly refining my skills to enhance the frontend aspects of the projects I undertake.
+
+### Get In Touch
+
+📧 Email: hana.curovac@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/hana-curovac-69ba862b0/
+📷 Instagram: @haanchhy
